@@ -1,2 +1,2 @@
-# PIC16F18446
-Device drivers and demo projects for the PIC16F18446 Express Dev Board
+# STM32F4-DISC1 Device Drivers
+Device drivers and demo projects for the STM32F4-DISC1 Development Board
